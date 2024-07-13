@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.ticker import ScalarFormatter
-import f_optika as fo
+import major_classes as fo
 
 
 import functions as func

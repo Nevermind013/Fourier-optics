@@ -4,7 +4,7 @@ import autograd.numpy as np
 from autograd import elementwise_grad as egrad
 import torch
 
-import f_optika as fo
+import major_classes as fo
 import functions as func
 
 
